@@ -1,0 +1,30 @@
+nmap
+scapy
+requests
+beautifulsoup4
+python-nmap
+metasploit-framework
+pyshark
+
+
+Notes:
+nmap: For network scanning.
+scapy: For packet crafting and network analysis.
+requests: For making HTTP requests.
+beautifulsoup4: For web scraping (if needed).
+python-nmap: A Python wrapper for Nmap.
+metasploit-framework: For running exploits (make sure you install it separately via your system's package manager, as it’s not a Python package).
+pyshark: A Python wrapper for Wireshark packet capture.
+You can install these dependencies using the following command:
+
+bash:
+pip install -r requirements.txt
+
+
+This will ensure your lab environment is ready for testing and exploitation tasks.
+
+
+
+
+
+
